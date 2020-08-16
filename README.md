@@ -16,3 +16,5 @@
 |ca|número de vasos principais(0-3)|Numérico
 |thal|3= normal, 6= defeito fixo; 7 defeito reversível|Categórico
 |alvo|Diagnóstico e grau de doença cardíaca|Categórico
+
+[comment]: <> (Falae padrin! :D)
