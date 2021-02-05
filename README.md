@@ -1,4 +1,4 @@
-# CardiacDisease
+# HeartDiseaseAnalysis
 
 |Atributo| Descrição|Tipo|
 |-       |     -    | -
